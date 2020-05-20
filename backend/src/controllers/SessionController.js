@@ -1,5 +1,5 @@
 /**
- * Route for loguin
+ * Route for login
  */
 
  const connection = require('../database/connection');
