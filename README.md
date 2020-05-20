@@ -1,5 +1,5 @@
 # BeTheHero
-Este é um projecto desenvolvido durante a <strong>Semana Oministack 11</strong> criação da empresa <b>RocketSeat</b>.
+Este é um projecto desenvolvido durante a <strong>Semana Oministack 11</strong>, iniciativa da empresa <strong>RocketSeat</strong>.
 
 <h3>Funcionamento</h3>
 O programa  basicamente é um plataforma onde as ONGs podem cadastrar insidentes(atropelamento, abandomo, maus trato....) 
